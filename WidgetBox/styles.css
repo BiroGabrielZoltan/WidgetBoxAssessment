@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container{
+  margin: 3em ;
+  /*margin-left: 500px;*/
+  border: 1px solid black;
+}
+
+.lineNews{
+  margin: 4px;
+}
+
+.btnSection{
+  text-align: right;
+  margin-left: 69%;
+  display: inline;
+}
+
+.btn{
+  margin : 2px;
+  border : none;
+  padding: 10px;
+  border-radius: 50%;
+  cursor: pointer;
+  text-decoration: none;
+  background-color: #ddd;
+}
